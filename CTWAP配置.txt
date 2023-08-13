@@ -1,0 +1,9 @@
+名称：随意
+APN：CTWAP
+代理：10.0.0.200
+端口：80
+用户名：ctwap@mycdma.cn
+密码：vnet.mobi
+MMSC：http://mmscnetmobi
+MNC：460
+

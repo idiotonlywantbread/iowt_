@@ -1,0 +1,40 @@
+//=============多仓更新日期 2023/06/23=============
+
+//本多仓仓库在线链接：
+//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
+//https://raw.iqiq.io/mengzehe/tvbox/main/自用多仓
+
+
+
+{
+	"storeHouse": [
+		{
+			"sourceName": "10+",
+			"sourceUrl": "https://tvbox.evai.pl/x6.json"
+		},
+		{
+			"sourceName": "18自用仓库",
+			"sourceUrl": "https://jsdelivr.b-cdn.net/gh/mengzehe/TVBox@main/18/18自用仓库"
+		},
+        {
+			"sourceName": "18多仓",
+			"sourceUrl": "https://jsdelivr.b-cdn.net/gh/mengzehe/TVBox@main/18/18duocang.json"
+		},
+		{
+			"sourceName": "💛多多公众仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/b.txt"
+		},
+		{
+			"sourceName": "❤️多多聚合仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/c.txt"
+		},
+		{
+			"sourceName": "💜多多预备仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt"
+		},
+        {
+			"sourceName": "💜多多预备仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt"
+		},
+	]
+}
